@@ -123,7 +123,7 @@ if btn:
 		st.session_state["run"] = "false"
 
 
-st.write('Made with ❤ by [Khushi](https://github.com/khankhushi/Moosic)')
+st.write('Made with ❤ by [Ismith](https://github.com/IamBatman2003/Music-recommendation-main)')
 
 #Streamlit Customisation
 st.markdown(""" <style>
