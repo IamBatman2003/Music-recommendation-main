@@ -1,4 +1,4 @@
-# Moosic - Facial emotion detection based music recommendation system
+# Emo Tune - Facial emotion detection based music recommendation system Youtube
 #### Submission for Microsoft Engage 2022
 ![logo](https://user-images.githubusercontent.com/81975567/170825957-55b94708-4893-4e13-a4aa-c5fa4ca9b070.png)
 
