@@ -31,18 +31,6 @@ The model is trained for 50 epochs and runs at 87% accuracy.
 - [Sprint Document](https://drive.google.com/file/d/16Hw_z2g4PVrzBO97enPeikW0-3zO8n5i/view?usp=sharing)
 - [Design Document](https://docs.google.com/presentation/d/1XoSN0gW_lVGJQSsLhSe6WVx80PbyMRAg/edit?usp=sharing&ouid=109023606663997444374&rtpof=true&sd=true)
 
-### Features
-1. Landing Page
-![image](https://user-images.githubusercontent.com/81975567/170835333-7a69618e-3f3c-46e9-90b1-b6fc72cc5553.png)
-
-
-Seamless landing page filled with dark-theme.
-
-2. Detection of various emotions like [Sad, Angry, Happy, Neutral, Surprise]
-![image](https://user-images.githubusercontent.com/81975567/170837282-d7f80ebc-cb69-4b86-ba6e-5f1c3f58e7d8.png)
-
-3. Detection of various gestures like [Hello, Thumbsup, Nope, Rock]
-![image](https://user-images.githubusercontent.com/81975567/170837584-d47e2b7f-0499-4a99-b8f3-25a8e743d97d.png)
 
 
 
